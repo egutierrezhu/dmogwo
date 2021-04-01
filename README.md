@@ -23,7 +23,7 @@ Objective functions:
 In order to minimize f1, f2 and f3 should be executed the main code “DMOGWO.m”. After that, the results are saved in the folder “ws_vanets/GWXXgYY”. Where, XX is the population of candidate solutions (grey wolves), and YY is the maximum number of generations. From these results we can generate figures and metrics such as:
 
 
-* “GeneratePareto.m” to show the pareto in 3d and 2D.
+* “GeneratePareto.m” to show the pareto in 3D and 2D.
 * “GenerateCurves.m” to show Packet loss, Latency, Throughput and Number of simulations versus Generations.
 * “GenerateMetrics.m” to calculate the metrics (e.g., HV, GD, IGD, SP). The code for these metrics can be found at PlatEMO [3].
 
